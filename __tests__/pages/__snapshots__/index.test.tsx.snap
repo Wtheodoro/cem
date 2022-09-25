@@ -1,0 +1,888 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <main
+      class="h-full"
+    >
+      <div
+        class="w-full lg:px-32  mx-auto px-2 sm:px-6"
+      >
+        <div
+          class="relative flex flex-row-reverse content-between items-center justify-center h-16 sm:flex-row"
+        >
+          <div
+            class=" flex-1 flex  items-stretch justify-center pl-2 sm:items-stretch sm:justify-start"
+          >
+            <div
+              class="flex-shrink-0 flex items-center w-auto pr-0 sm:pr-0"
+            >
+              <a
+                href="/"
+              >
+                <img
+                  alt="clicaemultiplica"
+                  class="pr-1 block h-5 sm:h-8 w-auto"
+                  src="/logo.png"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class=" inset-y-0  flex items-center pl-2  sm:static sm:inset-auto sm:ml-6 sm:pr-0"
+          >
+            <div
+              class=" sm:block sm:ml-6"
+            >
+              <div
+                class="flex space-x-4 "
+              >
+                <button
+                  class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-red-500 border-red-500 focus:ring-red-500 px-8 py-2 text-sm  "
+                  id="buy-header"
+                  type="button"
+                >
+                  <a
+                    href="https://produtos.clicaemultiplica.com/products"
+                  >
+                    Compre agora
+                  </a>
+                </button>
+              </div>
+            </div>
+            <a
+              class="hidden sm:inline-block sm:ml-6 px-2 py-2"
+              href="https://www.facebook.com/clicaemultiplica"
+            >
+              <svg
+                aria-label="facebook-icon"
+                class="h-5  text-gray-600 undefined"
+                fill="#BB3341"
+                stroke="none"
+                viewBox="0 0 16 31"
+              >
+                <path
+                  d="M4.10233 30.918H10.2562V15.5358H14.5497L15.0074 10.3853H10.2557C10.2557 10.3853 10.2557 8.46244 10.2557 7.45181C10.2557 6.23759 10.5001 5.7576 11.6767 5.7576C12.6232 5.7576 15.0074 5.7576 15.0074 5.7576V0.412354C15.0074 0.412354 11.4959 0.412354 10.746 0.412354C6.16678 0.412354 4.10184 2.42574 4.10184 6.2789C4.10184 9.63535 4.10184 10.3853 4.10184 10.3853H0.900726V15.6003H4.10184V30.918H4.10233Z"
+                  fill="#BB3341"
+                />
+              </svg>
+            </a>
+            <a
+              class="hidden sm:inline-block px-2 inline-block py-2"
+              href="https://www.linkedin.com/company/clica-e-multiplica"
+            >
+              <svg
+                aria-label="linkedin-icon"
+                class="h-5  text-gray-600 undefined"
+                fill="#BB3341"
+                stroke="none"
+                viewBox="0 0 32 31"
+              >
+                <path
+                  d="M7.44316 10.7733H0.988617V30.7603H7.44316V10.7733Z"
+                  fill="#BB3341"
+                />
+                <path
+                  d="M4.18485 8.15626C6.2931 8.15626 8.00189 6.50331 8.00189 4.46747C8.00189 2.43163 6.29373 0.779877 4.18485 0.779877C2.07598 0.779877 0.368439 2.43103 0.368439 4.46747C0.368439 6.50391 2.07598 8.15626 4.18485 8.15626Z"
+                  fill="#BB3341"
+                />
+                <path
+                  d="M17.7611 20.2685C17.7611 17.4591 19.11 15.7845 21.6936 15.7845C24.0664 15.7845 25.2077 17.3912 25.2077 20.2685C25.2077 23.1477 25.2077 30.7603 25.2077 30.7603H31.6315C31.6315 30.7603 31.6315 23.459 31.6315 18.1053C31.6315 12.7515 28.4654 10.1627 24.0445 10.1627C19.6217 10.1627 17.7605 13.465 17.7605 13.465V10.7727H11.5687V30.7597H17.7605C17.7611 30.7603 17.7611 23.3478 17.7611 20.2685Z"
+                  fill="#BB3341"
+                />
+              </svg>
+            </a>
+            <a
+              class="hidden sm:inline-block px-2 py-2"
+              href="https://www.tiktok.com/@clicaemultiplica"
+            >
+              <svg
+                aria-label="tiktok-icon"
+                class="h-5  text-gray-600 undefined"
+                fill="#BB3341"
+                stroke="none"
+                viewBox="0 0 28 32"
+              >
+                <path
+                  d="M27.6905 13.1693C27.4265 13.1932 27.1613 13.2062 26.8961 13.2072C23.9865 13.2078 21.2724 11.8295 19.6787 9.54181V22.0238C19.6787 27.1189 15.283 31.2489 9.86146 31.2489C4.43937 31.2489 0.0442505 27.1189 0.0442505 22.0238C0.0442505 16.9287 4.43937 12.7987 9.86146 12.7987C10.0664 12.7987 10.2669 12.8164 10.468 12.8278V17.3741C10.2664 17.3513 10.0686 17.3165 9.86146 17.3165C7.09434 17.3165 4.85093 19.4246 4.85093 22.0248C4.85093 24.6251 7.09434 26.7332 9.86146 26.7332C12.6291 26.7332 15.0736 24.6842 15.0736 22.083L15.1222 0.884613H19.7505C20.1869 4.78468 23.5335 7.83082 27.6955 8.11685V13.1693"
+                  fill="#BB3341"
+                />
+              </svg>
+            </a>
+            <a
+              class="hidden sm:inline-block px-2 py-2"
+              href="https://www.instagram.com/clicaemultiplica"
+            >
+              <svg
+                aria-label="instagram-icon"
+                class="h-5  text-gray-600 undefined"
+                fill="#BB3341"
+                stroke="none"
+                viewBox="0 0 33 31"
+              >
+                <path
+                  d="M16.0962 3.00677C20.3723 3.00677 20.879 3.02222 22.568 3.09468C24.1294 3.16128 24.9776 3.40635 25.5421 3.61253C26.2893 3.88531 26.8232 4.21084 27.3838 4.73721C27.9443 5.26359 28.291 5.76439 28.5815 6.46659C28.801 6.99669 29.0614 7.79265 29.1329 9.25937C29.2095 10.8449 29.2265 11.3207 29.2265 15.3367C29.2265 19.3527 29.2101 19.8279 29.1329 21.4135C29.0614 22.8802 28.801 23.6761 28.5815 24.2062C28.291 24.9084 27.9443 25.4092 27.3838 25.9356C26.8238 26.4615 26.2899 26.7875 25.5421 27.0603C24.9776 27.2665 24.1294 27.5116 22.568 27.5782C20.879 27.6501 20.3729 27.6655 16.0962 27.6655C11.8194 27.6655 11.3133 27.6501 9.62429 27.5782C8.06292 27.511 7.21472 27.2665 6.65076 27.0603C5.90299 26.7875 5.36967 26.4615 4.80912 25.9356C4.24857 25.4092 3.90191 24.9084 3.61142 24.2062C3.39242 23.6767 3.13144 22.8802 3.05995 21.4135C2.98279 19.8279 2.9669 19.3522 2.9669 15.3367C2.9669 11.3212 2.98336 10.8454 3.05995 9.25937C3.13144 7.79265 3.39242 6.99669 3.61142 6.46659C3.90191 5.76493 4.24913 5.26412 4.80912 4.73721C5.36967 4.21084 5.90299 3.88531 6.65076 3.61253C7.21472 3.40635 8.06292 3.16128 9.62429 3.09468C11.3133 3.02169 11.82 3.00677 16.0962 3.00677ZM16.0962 0.29657C11.7462 0.29657 11.2016 0.314151 9.49267 0.387141C7.78775 0.46013 6.6241 0.714795 5.60512 1.08614C4.55154 1.47026 3.65851 1.98439 2.76833 2.82084C1.87814 3.65675 1.33064 4.49587 0.921576 5.48469C0.525559 6.44155 0.254929 7.53479 0.177201 9.13523C0.098905 10.7394 0.0807495 11.2514 0.0807495 15.3362C0.0807495 19.4204 0.098905 19.9324 0.177201 21.5365C0.254929 23.1375 0.525559 24.2302 0.921576 25.1871C1.33064 26.1759 1.87814 27.015 2.76833 27.8509C3.65908 28.6869 4.5521 29.2015 5.60512 29.5856C6.6241 29.957 7.78775 30.2116 9.49267 30.2846C11.201 30.3576 11.7462 30.3747 16.0962 30.3747C20.4455 30.3747 20.9908 30.3576 22.6991 30.2846C24.404 30.2116 25.5676 29.957 26.5866 29.5856C27.6402 29.201 28.5332 28.6869 29.4234 27.8509C30.3136 27.015 30.8617 26.1759 31.2707 25.1871C31.6662 24.2302 31.9374 23.1375 32.0151 21.5365C32.0928 19.9324 32.111 19.4204 32.111 15.3362C32.111 11.2514 32.0928 10.7399 32.0151 9.13523C31.9374 7.53426 31.6662 6.44155 31.2707 5.48469C30.8611 4.49587 30.3136 3.65675 29.4234 2.82084C28.5332 1.98492 27.6402 1.47026 26.5866 1.08614C25.5676 0.714795 24.404 0.46013 22.6991 0.387141C20.9908 0.314151 20.4455 0.29657 16.0962 0.29657Z"
+                  fill="#BB3341"
+                />
+                <path
+                  d="M16.0961 7.61365C11.5544 7.61365 7.8717 11.0713 7.8717 15.3367C7.8717 19.6021 11.5539 23.0598 16.0961 23.0598C20.6384 23.0598 24.3206 19.6021 24.3206 15.3367C24.3206 11.0708 20.6384 7.61365 16.0961 7.61365ZM16.0961 20.349C13.1476 20.349 10.7579 18.1045 10.7579 15.3362C10.7579 12.5674 13.1476 10.3228 16.0961 10.3228C19.0447 10.3228 21.4344 12.5674 21.4344 15.3362C21.4344 18.1045 19.0447 20.349 16.0961 20.349Z"
+                  fill="#BB3341"
+                />
+                <path
+                  d="M26.5674 7.30785C26.5674 8.30466 25.7067 9.11288 24.6457 9.11288C23.5842 9.11288 22.7235 8.30466 22.7235 7.30785C22.7235 6.31157 23.5842 5.50336 24.6457 5.50336C25.7067 5.50336 26.5674 6.31157 26.5674 7.30785Z"
+                  fill="#BB3341"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="h-screen"
+      >
+        <div
+          class=""
+          style="background-image: url(/hero.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+        >
+          <div
+            class="h-full flex items-center justify-center"
+          >
+            <div
+              class="flex-1 text-6xl md:text-7xl font-bold text-white pl-4 lg:pl-32 my-auto"
+            >
+              Multiplique mundos melhores com o Clica & Multiplica
+            </div>
+            <div
+              class="flex-1"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="px-4 md:px-52 py-16 text-center text-lg lg:font-medium"
+      >
+        Somos uma social tech sem fins lucrativos que tem como propósito promover o desenvolvimento sustentável através da conexão entre 
+        <span
+          class="font-bold"
+        >
+          pessoas, microempreendores, ONGs e empresas &lt;3
+        </span>
+        <br />
+        <br />
+        No 
+        <span
+          class="font-bold"
+        >
+          Clica & Multiplica Marketplace
+        </span>
+        , além de você poder comprar inúmeros produtos artesanais, deliciosos e de alta qualidade das nossas empreendedoras parceiras, você também pode ajudar a 
+        <span
+          class="font-bold"
+        >
+          transformar o mundo.
+        </span>
+         Incrível, né?
+      </div>
+      <div
+        class="pt-24 pb-40  lg:px-52 px-4 md:px-10 "
+        style="background-color: rgb(255, 248, 245);"
+      >
+        <div
+          class="text-4xl font-bold text-center text-red-600 mb-32"
+        >
+          Veja como é fácil:
+        </div>
+        <div
+          class="flex md:flex-row flex-col gap-32 text-center lg:w-full"
+        >
+          <div>
+            <img
+              class="h-28 mb-14 mx-auto"
+              src="/easy-1.png"
+            />
+            <div
+              class="text-red-600"
+            >
+              Compre de nossas 
+              <span
+                class="font-bold"
+              >
+                microempreendedoras
+              </span>
+               em nosso 
+              <span
+                class="font-bold"
+              >
+                Marketplace
+              </span>
+               e ajude a movimentar a economia entre os pequenos
+            </div>
+          </div>
+          <div
+            class=""
+          >
+            <img
+              class="h-28 flex-0 mb-14 mx-auto"
+              src="/easy-2.png"
+            />
+            <div
+              class="text-red-600"
+            >
+              Parte do valor de sua compra será revertida para
+              <span
+                class="font-bold"
+              >
+                 nossas ONGs parceiras
+              </span>
+            </div>
+          </div>
+          <div>
+            <img
+              class="h-28 flex-0 mb-14 mx-auto"
+              src="/easy-3.png"
+            />
+            <div
+              class="text-red-600"
+            >
+              <span
+                class="font-bold"
+              >
+                Receba informações
+              </span>
+               sobre a ONG que você ajudou e conheça mais sobre nossos projetos em nossas redes sociais
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="pt-24 pb-40"
+      >
+        <div
+          class="px-4 md:px-0 text-4xl font-bold text-center text-red-700 mb-32"
+        >
+          Um marketplace recheado de amor para você
+        </div>
+        <div
+          class="flex flex-col sm:flex-row items-center gap-6 md:gap-8 text-center px-4 md:px-0"
+        >
+          <a
+            class="w-full h-80 sm:flex-1 sm:h-60"
+            href="https://produtos.clicaemultiplica.com/t/Alimentacao"
+          >
+            <div
+              class=""
+              style="background-image: url(marketplace-1.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white"
+                >
+                  Alimentação
+                </div>
+              </div>
+            </div>
+          </a>
+          <a
+            class="w-full h-80 sm:flex-1 sm:h-60"
+            href="https://produtos.clicaemultiplica.com/t/artesanato-decoracao"
+          >
+            <div
+              class=""
+              style="background-image: url(marketplace-2.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white"
+                >
+                  Artesanato e decoração
+                </div>
+              </div>
+            </div>
+          </a>
+          <a
+            class="w-full h-80 sm:flex-1 sm:h-60"
+            href="https://produtos.clicaemultiplica.com/t/cosmeticos"
+          >
+            <div
+              class=""
+              style="background-image: url(marketplace-3.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white"
+                >
+                  Cosméticos
+                </div>
+              </div>
+            </div>
+          </a>
+          <a
+            class="w-full h-80 sm:flex-1 sm:h-60"
+            href="https://produtos.clicaemultiplica.com/t/Vestuario"
+          >
+            <div
+              class=""
+              style="background-image: url(marketplace-4.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white"
+                >
+                  Vestuário
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div
+        class="text-center"
+      >
+        <button
+          class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-red-500 border-red-500 focus:ring-red-500 px-6 py-4 text-2xl w-72 md:w-96 border-4  "
+          id="buy-now-marketplace"
+          type="button"
+        >
+          <a
+            href="https://produtos.clicaemultiplica.com/products"
+          >
+            Compre Agora
+          </a>
+        </button>
+      </div>
+      <div
+        class="text-center py-24 px-24 lg:font-medium"
+      >
+        <div
+          class="text-4xl font-bold mb-8"
+        >
+          Nós trabalhamos para criar um futuro melhor para todas as gerações
+        </div>
+        <div
+          class="text-2xl"
+        >
+          Incentivamos nossas empreendedoras e parceiras a adotarem práticas que não agridam o meio ambiente e estejam alinhadas às práticas de ESG ("Environmental, social and governance" -Ambiental, Social e Governança em português), buscando garantir um futuro sustentável para todas as pessoas.
+        </div>
+      </div>
+      <div
+        class="p-10 md:p-20"
+        style="background-color: rgb(202, 252, 172);"
+      >
+        <img
+          class="mx-auto"
+          src="meio-ambiente.png"
+        />
+      </div>
+      <div
+        class="pt-24 pb-40 md:px-52 text-white text-center flex flex-col md:flex-row md:gap-60 justify-center"
+        style="background-color: rgb(187, 51, 65);"
+      >
+        <div
+          class="flex flex-col justify-between"
+        >
+          <div
+            class="mb-10 md:mb-16"
+          >
+            <div
+              class="text-8xl"
+            >
+              +170
+            </div>
+            <div
+              class="text-4xl"
+            >
+              Consumidores
+            </div>
+          </div>
+          <div
+            class="mb-10 md:mb-0"
+          >
+            <div
+              class="text-8xl"
+            >
+              32
+            </div>
+            <div
+              class="text-4xl"
+            >
+              Empreendedoras
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex flex-col justify-between"
+        >
+          <div
+            class="mb-10 md:mb-16"
+          >
+            <div
+              class="text-8xl"
+            >
+              +1800 
+            </div>
+            <div
+              class="text-4xl"
+            >
+              Pedidos realizados 
+              <br />
+               em nosso site
+            </div>
+          </div>
+          <div>
+            <div
+              class="text-8xl"
+            >
+              8
+            </div>
+            <div
+              class="text-4xl"
+            >
+              ONGs 
+              <br />
+              parceiras
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="pt-24 pb-40 md:pb-0 lg:pb-40 px-4 md:px-0"
+      >
+        <div
+          class="text-4xl font-bold text-center text-red-600 mb-32"
+        >
+          Compre das nossas empreendedoras
+        </div>
+        <div
+          class="flex flex-row gap-4 md:gap-9 text-center mb-4 md:mb-9"
+        >
+          <div
+            class="flex-1 h-60 lg:h-h26rem"
+          >
+            <div
+              class=""
+              style="background-image: url(emp-1.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex flex-col items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white mb-12"
+                >
+                  Snut Granola
+                </div>
+                <button
+                  class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-white border-white focus:ring-white px-4 py-2 text-base md:w-64 md:h-14  "
+                  id="compre-snut-granola"
+                  type="button"
+                >
+                  <a
+                    href="https://produtos.clicaemultiplica.com/t/empreendedor/snut-granola"
+                  >
+                    Compre agora
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex-1 h-60 lg:h-h26rem truncate"
+          >
+            <div
+              class=""
+              style="background-image: url(emp-2.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex flex-col items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white mb-12"
+                >
+                  Ynaê
+                </div>
+                <button
+                  class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-white border-white focus:ring-white px-4 py-2 text-base md:w-64 md:h-14  "
+                  id="compre-ynae"
+                  type="button"
+                >
+                  <a
+                    href="https://produtos.clicaemultiplica.com/t/empreendedor/ynaye-produtos-naturais-e-veganos"
+                  >
+                    Compre agora
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex flex-row gap-4 md:gap-8 text-center"
+        >
+          <div
+            class="flex-1 h-60 lg:h-h26rem"
+          >
+            <div
+              class=""
+              style="background-image: url(emp-3.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex flex-col items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white md:mb-12"
+                >
+                  Delícias do Sul de Minas
+                </div>
+                <button
+                  class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-white border-white focus:ring-white px-4 py-2 text-base md:w-64 md:h-14  "
+                  id="compre-delicias"
+                  type="button"
+                >
+                  <a
+                    href="https://produtos.clicaemultiplica.com/t/empreendedor/delicias-do-sul-de-minas"
+                  >
+                    Compre agora
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex-1 h-60 lg:h-h26rem"
+          >
+            <div
+              class=""
+              style="background-image: url(emp-4.png); background-position: center; background-size: cover; background-repeat: no-repeat; height: 100%;"
+            >
+              <div
+                class="h-full flex flex-col items-center justify-center"
+              >
+                <div
+                  class="text-4xl text-white mb-12"
+                >
+                  Eró Geleias
+                </div>
+                <button
+                  class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-white border-white focus:ring-white px-4 py-2 text-base md:w-64 md:h-14  "
+                  id="compre-ero-geleias"
+                  type="button"
+                >
+                  <a
+                    href="https://produtos.clicaemultiplica.com/t/empreendedor/ero-geleias"
+                  >
+                    Compre agora
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="md:pt-24 lg:pt-0 lg:pb-40 md:px-52"
+      >
+        <div
+          class="text-4xl font-bold text-center text-red-600 mb-32 lg:mb-0"
+        >
+          Conheça as nossas ONGs parceiras
+        </div>
+      </div>
+      <div
+        class="grid md:grid-cols-4 gap-4 md:gap-8"
+      >
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/ongpanapana/"
+          style="background-color: rgb(250, 129, 82);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              ONG Panapaná
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/projetocriancafelizjaguare/"
+          style="background-color: rgb(158, 86, 226);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              Projeto Criança Feliz
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/casahacker/"
+          style="background-color: rgb(247, 180, 222);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              ONG Casa Hacker
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/mutiraonobem/"
+          style="background-color: rgb(187, 51, 65);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              Mutirão no bem
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/ong.vidas/"
+          style="background-color: rgb(187, 51, 65);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              ONG Vidas
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/instnacaocidada/"
+          style="background-color: rgb(247, 180, 222);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              ONG Nação Cidadã
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/autsy/"
+          style="background-color: rgb(158, 86, 226);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              Associação Austy
+            </div>
+          </div>
+        </a>
+        <a
+          class="h-60 cursor-pointer"
+          href="https://www.instagram.com/institutojuntos/"
+          style="background-color: rgb(250, 129, 82);"
+        >
+          <div
+            class="h-full flex flex-col items-center justify-center p-8 text-center"
+          >
+            <div
+              class="text-4xl text-white"
+            >
+              Instituto Juntos
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="text-center my-24"
+      >
+        <button
+          class="inline-flex items-center justify-center border-2 border-transparent font-bold shadow-sm focus:outline-none focus:ring-2 rounded-full  text-red-500 border-red-500 focus:ring-red-500 px-6 py-4 text-2xl w-72 md:w-96 border-4  "
+          id="buy-now-marketplace"
+          type="button"
+        >
+          <a
+            href="https://produtos.clicaemultiplica.com/t/doacao"
+          >
+            Doe para as ONGs
+          </a>
+        </button>
+      </div>
+      <div
+        class="bg-red-500 px-4 md:px-24 py-16 text-white flex flex-col md:block"
+      >
+        <div
+          class="pl-4 md:pl-0 pb-8 flex flex-col items-stretch md:flex-row border-white border-b lg:justify-between"
+        >
+          <img
+            class="h-40 mb-10 md:mb-0 mr-auto lg:mr-0"
+            src="/logo-footer.png"
+          />
+          <div
+            class="mr-20 md:self-center"
+          >
+            <div
+              class="text-2xl font-extrabold mb-4"
+            >
+              Contato
+            </div>
+            <div
+              class="text-lg"
+            >
+              Clica e Multiplica
+            </div>
+            <div
+              class="text-lg"
+            >
+              <a
+                href="tel:+55(11)99561-1849"
+              >
+                (11) 99561-1849
+              </a>
+            </div>
+            <div
+              class="text-lg"
+            >
+              <a
+                href="mailto:contato@clicaemultiplica.com.br"
+              >
+                contato@clicaemultiplica.com.br
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-8"
+          >
+            <div
+              class="text-2xl font-extrabold mb-4"
+            >
+              Siga o Clica
+            </div>
+            <div
+              class="flex flex-row"
+            >
+              <a
+                class="pr-4"
+                href="https://www.facebook.com/clicaemultiplica"
+              >
+                <svg
+                  aria-label="facebook-icon"
+                  class="h-10  text-gray-600 undefined"
+                  fill="white"
+                  stroke="none"
+                  viewBox="0 0 16 31"
+                >
+                  <path
+                    d="M4.10233 30.918H10.2562V15.5358H14.5497L15.0074 10.3853H10.2557C10.2557 10.3853 10.2557 8.46244 10.2557 7.45181C10.2557 6.23759 10.5001 5.7576 11.6767 5.7576C12.6232 5.7576 15.0074 5.7576 15.0074 5.7576V0.412354C15.0074 0.412354 11.4959 0.412354 10.746 0.412354C6.16678 0.412354 4.10184 2.42574 4.10184 6.2789C4.10184 9.63535 4.10184 10.3853 4.10184 10.3853H0.900726V15.6003H4.10184V30.918H4.10233Z"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+              <a
+                class="px-4"
+                href="https://www.linkedin.com/company/clica-e-multiplica"
+              >
+                <svg
+                  aria-label="linkedin-icon"
+                  class="h-10  text-gray-600 undefined"
+                  fill="white"
+                  stroke="none"
+                  viewBox="0 0 32 31"
+                >
+                  <path
+                    d="M7.44316 10.7733H0.988617V30.7603H7.44316V10.7733Z"
+                    fill="white"
+                  />
+                  <path
+                    d="M4.18485 8.15626C6.2931 8.15626 8.00189 6.50331 8.00189 4.46747C8.00189 2.43163 6.29373 0.779877 4.18485 0.779877C2.07598 0.779877 0.368439 2.43103 0.368439 4.46747C0.368439 6.50391 2.07598 8.15626 4.18485 8.15626Z"
+                    fill="white"
+                  />
+                  <path
+                    d="M17.7611 20.2685C17.7611 17.4591 19.11 15.7845 21.6936 15.7845C24.0664 15.7845 25.2077 17.3912 25.2077 20.2685C25.2077 23.1477 25.2077 30.7603 25.2077 30.7603H31.6315C31.6315 30.7603 31.6315 23.459 31.6315 18.1053C31.6315 12.7515 28.4654 10.1627 24.0445 10.1627C19.6217 10.1627 17.7605 13.465 17.7605 13.465V10.7727H11.5687V30.7597H17.7605C17.7611 30.7603 17.7611 23.3478 17.7611 20.2685Z"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+              <a
+                class="px-4"
+                href="https://www.tiktok.com/@clicaemultiplica"
+              >
+                <svg
+                  aria-label="tiktok-icon"
+                  class="h-10  text-gray-600 undefined"
+                  fill="white"
+                  stroke="none"
+                  viewBox="0 0 28 32"
+                >
+                  <path
+                    d="M27.6905 13.1693C27.4265 13.1932 27.1613 13.2062 26.8961 13.2072C23.9865 13.2078 21.2724 11.8295 19.6787 9.54181V22.0238C19.6787 27.1189 15.283 31.2489 9.86146 31.2489C4.43937 31.2489 0.0442505 27.1189 0.0442505 22.0238C0.0442505 16.9287 4.43937 12.7987 9.86146 12.7987C10.0664 12.7987 10.2669 12.8164 10.468 12.8278V17.3741C10.2664 17.3513 10.0686 17.3165 9.86146 17.3165C7.09434 17.3165 4.85093 19.4246 4.85093 22.0248C4.85093 24.6251 7.09434 26.7332 9.86146 26.7332C12.6291 26.7332 15.0736 24.6842 15.0736 22.083L15.1222 0.884613H19.7505C20.1869 4.78468 23.5335 7.83082 27.6955 8.11685V13.1693"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+              <a
+                class="px-4"
+                href="https://www.instagram.com/clicaemultiplica"
+              >
+                <svg
+                  aria-label="instagram-icon"
+                  class="h-10  text-gray-600 undefined"
+                  fill="white"
+                  stroke="none"
+                  viewBox="0 0 33 31"
+                >
+                  <path
+                    d="M16.0962 3.00677C20.3723 3.00677 20.879 3.02222 22.568 3.09468C24.1294 3.16128 24.9776 3.40635 25.5421 3.61253C26.2893 3.88531 26.8232 4.21084 27.3838 4.73721C27.9443 5.26359 28.291 5.76439 28.5815 6.46659C28.801 6.99669 29.0614 7.79265 29.1329 9.25937C29.2095 10.8449 29.2265 11.3207 29.2265 15.3367C29.2265 19.3527 29.2101 19.8279 29.1329 21.4135C29.0614 22.8802 28.801 23.6761 28.5815 24.2062C28.291 24.9084 27.9443 25.4092 27.3838 25.9356C26.8238 26.4615 26.2899 26.7875 25.5421 27.0603C24.9776 27.2665 24.1294 27.5116 22.568 27.5782C20.879 27.6501 20.3729 27.6655 16.0962 27.6655C11.8194 27.6655 11.3133 27.6501 9.62429 27.5782C8.06292 27.511 7.21472 27.2665 6.65076 27.0603C5.90299 26.7875 5.36967 26.4615 4.80912 25.9356C4.24857 25.4092 3.90191 24.9084 3.61142 24.2062C3.39242 23.6767 3.13144 22.8802 3.05995 21.4135C2.98279 19.8279 2.9669 19.3522 2.9669 15.3367C2.9669 11.3212 2.98336 10.8454 3.05995 9.25937C3.13144 7.79265 3.39242 6.99669 3.61142 6.46659C3.90191 5.76493 4.24913 5.26412 4.80912 4.73721C5.36967 4.21084 5.90299 3.88531 6.65076 3.61253C7.21472 3.40635 8.06292 3.16128 9.62429 3.09468C11.3133 3.02169 11.82 3.00677 16.0962 3.00677ZM16.0962 0.29657C11.7462 0.29657 11.2016 0.314151 9.49267 0.387141C7.78775 0.46013 6.6241 0.714795 5.60512 1.08614C4.55154 1.47026 3.65851 1.98439 2.76833 2.82084C1.87814 3.65675 1.33064 4.49587 0.921576 5.48469C0.525559 6.44155 0.254929 7.53479 0.177201 9.13523C0.098905 10.7394 0.0807495 11.2514 0.0807495 15.3362C0.0807495 19.4204 0.098905 19.9324 0.177201 21.5365C0.254929 23.1375 0.525559 24.2302 0.921576 25.1871C1.33064 26.1759 1.87814 27.015 2.76833 27.8509C3.65908 28.6869 4.5521 29.2015 5.60512 29.5856C6.6241 29.957 7.78775 30.2116 9.49267 30.2846C11.201 30.3576 11.7462 30.3747 16.0962 30.3747C20.4455 30.3747 20.9908 30.3576 22.6991 30.2846C24.404 30.2116 25.5676 29.957 26.5866 29.5856C27.6402 29.201 28.5332 28.6869 29.4234 27.8509C30.3136 27.015 30.8617 26.1759 31.2707 25.1871C31.6662 24.2302 31.9374 23.1375 32.0151 21.5365C32.0928 19.9324 32.111 19.4204 32.111 15.3362C32.111 11.2514 32.0928 10.7399 32.0151 9.13523C31.9374 7.53426 31.6662 6.44155 31.2707 5.48469C30.8611 4.49587 30.3136 3.65675 29.4234 2.82084C28.5332 1.98492 27.6402 1.47026 26.5866 1.08614C25.5676 0.714795 24.404 0.46013 22.6991 0.387141C20.9908 0.314151 20.4455 0.29657 16.0962 0.29657Z"
+                    fill="white"
+                  />
+                  <path
+                    d="M16.0961 7.61365C11.5544 7.61365 7.8717 11.0713 7.8717 15.3367C7.8717 19.6021 11.5539 23.0598 16.0961 23.0598C20.6384 23.0598 24.3206 19.6021 24.3206 15.3367C24.3206 11.0708 20.6384 7.61365 16.0961 7.61365ZM16.0961 20.349C13.1476 20.349 10.7579 18.1045 10.7579 15.3362C10.7579 12.5674 13.1476 10.3228 16.0961 10.3228C19.0447 10.3228 21.4344 12.5674 21.4344 15.3362C21.4344 18.1045 19.0447 20.349 16.0961 20.349Z"
+                    fill="white"
+                  />
+                  <path
+                    d="M26.5674 7.30785C26.5674 8.30466 25.7067 9.11288 24.6457 9.11288C23.5842 9.11288 22.7235 8.30466 22.7235 7.30785C22.7235 6.31157 23.5842 5.50336 24.6457 5.50336C25.7067 5.50336 26.5674 6.31157 26.5674 7.30785Z"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="pl-4 md:pl-0 md:text-lg mt-8 md:text-right"
+        >
+          Designed and developed by Apegro | © 2021 Clica e Multiplica. All Rights Reserved.
+        </div>
+      </div>
+    </main>
+  </div>
+</DocumentFragment>
+`;

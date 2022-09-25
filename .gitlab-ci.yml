@@ -1,0 +1,71 @@
+stages:
+  - install
+  - build
+  - test
+  - quality
+  - docker
+
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+    - node_modules
+
+install:
+  stage: install
+  image: node:14.15.1
+  script:
+    - yarn install
+
+build:
+  stage: build
+  image: node:14.15.1
+  script:
+    - yarn build-storybook
+    - yarn build
+  artifacts:
+    paths:
+      - storybook-static/
+      - out/
+
+test:
+  stage: test
+  image: buildkite/puppeteer:5.2.1
+  script:
+    - yarn lint && yarn tsc --pretty --noEmit && yarn test
+  dependencies:
+    - build
+  artifacts:
+    paths:
+      - coverage/
+
+sonar-scanner:
+  stage: quality
+  image: node:14.15.1
+  script:
+    - yarn sonar-scanner
+  dependencies:
+    - test
+  only:
+    - develop
+  allow_failure: true
+
+docker:
+  stage: docker
+  image: docker:19.03.8
+  services:
+    - docker:19.03.8-dind
+  variables:
+    # Use TLS https://docs.gitlab.com/ee/ci/docker/using_docker_build.html#tls-enabled
+    DOCKER_HOST: tcp://docker:2376
+    DOCKER_TLS_CERTDIR: '/certs'
+  before_script:
+    - echo $CI_REGISTRY_PASSWORD | docker login -u $CI_REGISTRY_USER $CI_REGISTRY --password-stdin
+  script:
+    - docker pull $CI_REGISTRY_IMAGE:latest || true
+    - docker build --cache-from $CI_REGISTRY_IMAGE:latest --tag $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG --tag $CI_REGISTRY_IMAGE:latest .
+    - docker push $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG
+    - docker push $CI_REGISTRY_IMAGE:latest
+  only:
+    - main
+    - develop
+    - tags
