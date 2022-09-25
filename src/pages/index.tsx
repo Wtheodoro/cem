@@ -71,52 +71,43 @@ export default function Home(): JSX.Element {
             Um marketplace recheado de amor para você
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-6 md:gap-8 text-center px-4 md:px-0">
-            <a
-              href="https://produtos.clicaemultiplica.com/t/Alimentacao"
-              className="w-full h-80 sm:flex-1 sm:h-60">
+            <div className="w-full h-80 sm:flex-1 sm:h-60">
               <Background url="marketplace-1.png">
                 <div className="h-full flex items-center justify-center">
                   <div className="text-4xl text-white">Alimentação</div>
                 </div>
               </Background>
-            </a>
-            <a
-              href="https://produtos.clicaemultiplica.com/t/artesanato-decoracao"
-              className="w-full h-80 sm:flex-1 sm:h-60">
+            </div>
+            <div className="w-full h-80 sm:flex-1 sm:h-60">
               <Background url="marketplace-2.png">
                 <div className="h-full flex items-center justify-center">
                   <div className="text-4xl text-white">Artesanato e decoração</div>
                 </div>
               </Background>
-            </a>
-            <a
-              href="https://produtos.clicaemultiplica.com/t/cosmeticos"
-              className="w-full h-80 sm:flex-1 sm:h-60">
+            </div>
+            <div className="w-full h-80 sm:flex-1 sm:h-60">
               <Background url="marketplace-3.png">
                 <div className="h-full flex items-center justify-center">
                   <div className="text-4xl text-white">Cosméticos</div>
                 </div>
               </Background>
-            </a>
-            <a
-              href="https://produtos.clicaemultiplica.com/t/Vestuario"
-              className="w-full h-80 sm:flex-1 sm:h-60">
+            </div>
+            <div className="w-full h-80 sm:flex-1 sm:h-60">
               <Background url="marketplace-4.png">
                 <div className="h-full flex items-center justify-center">
                   <div className="text-4xl text-white">Vestuário</div>
                 </div>
               </Background>
-            </a>
+            </div>
           </div>
         </div>
 
         <div className="text-center">
           <Button id="buy-now-marketplace" size="xl">
-            <a 
-            href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
+            <a
+              href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
                   %20mais%20informações.%20Conheça%20nosso%20catálogo%20disponível%20aqui%20
-                  https://wa.me/c/5511995611849%20"
-            >
+                  https://wa.me/c/5511995611849%20">
               Conheça mais
             </a>
           </Button>
@@ -180,11 +171,10 @@ export default function Home(): JSX.Element {
                 <div className="h-full flex flex-col items-center justify-center">
                   <div className="text-4xl text-white mb-12">Snut Granola</div>
                   <Button size="lg" id="compre-snut-granola" color="white">
-                    <a 
-                    href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
+                    <a
+                      href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
                           %20mais%20informações.%20Conheça%20nosso%20catálogo%20disponível%20aqui%20
-                          https://wa.me/c/5511995611849%20"
-                    >
+                          https://wa.me/c/5511995611849%20">
                       Conheça mais
                     </a>
                   </Button>
@@ -196,11 +186,10 @@ export default function Home(): JSX.Element {
                 <div className="h-full flex flex-col items-center justify-center">
                   <div className="text-4xl text-white mb-12">Ynaê</div>
                   <Button size="lg" id="compre-ynae" color="white">
-                    <a 
+                    <a
                       href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
                             %20mais%20informações.%20Conheça%20nosso%20catálogo%20disponível%20aqui%20
-                            https://wa.me/c/5511995611849%20"
-                    >
+                            https://wa.me/c/5511995611849%20">
                       Conheça mais
                     </a>
                   </Button>
@@ -214,11 +203,10 @@ export default function Home(): JSX.Element {
                 <div className="h-full flex flex-col items-center justify-center">
                   <div className="text-4xl text-white md:mb-12">Delícias do Sul de Minas</div>
                   <Button size="lg" id="compre-delicias" color="white">
-                    <a 
+                    <a
                       href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
                             %20mais%20informações.%20Conheça%20nosso%20catálogo%20disponível%20aqui%20
-                            https://wa.me/c/5511995611849%20"
-                    >
+                            https://wa.me/c/5511995611849%20">
                       Conheça mais
                     </a>
                   </Button>
@@ -230,11 +218,10 @@ export default function Home(): JSX.Element {
                 <div className="h-full flex flex-col items-center justify-center">
                   <div className="text-4xl text-white mb-12">Eró Geleias</div>
                   <Button size="lg" id="compre-ero-geleias" color="white">
-                    <a 
+                    <a
                       href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
                             %20mais%20informações.%20Conheça%20nosso%20catálogo%20disponível%20aqui%20
-                            https://wa.me/c/5511995611849%20"
-                    >
+                            https://wa.me/c/5511995611849%20">
                       Conheça mais
                     </a>
                   </Button>
@@ -306,11 +293,10 @@ export default function Home(): JSX.Element {
 
         <div className="text-center my-24">
           <Button id="buy-now-marketplace" size="xl">
-            <a 
+            <a
               href="https://wa.me/5511995611849?text=Olá.%20Venho%20do%20site%20e%20gostaria%20de
                     %20mais%20informações.%20Conheça%20nosso%20catálogo%20disponível%20aqui%20
-                    https://wa.me/c/5511995611849%20"
-            >
+                    https://wa.me/c/5511995611849%20">
               Conheça mais
             </a>
           </Button>
